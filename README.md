@@ -20,7 +20,6 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Testing](https://dev.to/ivanleomk/testing-2f4k)
 <!-- BLOG-POST-LIST:END -->
 
