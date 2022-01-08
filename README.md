@@ -68,6 +68,7 @@
 # Recent Github Activity
 
 <!--START_SECTION:activity-->
+
 1. 💪 Opened PR [#1](https://github.com/bryanweecw/cautious-pancake/pull/1) in [bryanweecw/cautious-pancake](https://github.com/bryanweecw/cautious-pancake)
 2. ❗️ Closed issue [#34](https://github.com/jackyzha0/quartz/issues/34) in [jackyzha0/quartz](https://github.com/jackyzha0/quartz)
 3. 🗣 Commented on [#34](https://github.com/jackyzha0/quartz/issues/34) in [jackyzha0/quartz](https://github.com/jackyzha0/quartz)
@@ -77,4 +78,4 @@
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanleomk)](https://github.com/ivanleomk/github-readme-stats)
 
-[![Spotify](https://ivanleomk.vercel.app/api/spotify)](https://open.spotify.com/user/ivanleom)
+[![Spotify](https://novatorem-ivanleomk.vercel.app/api/spotify)](https://open.spotify.com/user/ivanleom)
