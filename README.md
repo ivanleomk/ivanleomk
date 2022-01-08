@@ -28,7 +28,6 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
 - [Application Video](https://www.youtube.com/watch?v=92tDFP4stk0)
 <!-- YOUTUBE:END -->
 
