@@ -76,3 +76,5 @@
 <!--END_SECTION:activity-->
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanleomk)](https://github.com/ivanleomk/github-readme-stats)
+
+[![Spotify](https://ivanleomk.vercel.app/api/spotify)](https://open.spotify.com/user/ivanleom)
