@@ -37,9 +37,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/ivanleomk/react-2025-2/pull/1) in [ivanleomk/react-2025-2](https://github.com/ivanleomk/react-2025-2)
-2. 💪 Opened PR [#1](https://github.com/ivanleomk/react-2025-2/pull/1) in [ivanleomk/react-2025-2](https://github.com/ivanleomk/react-2025-2)
-3. 💪 Opened PR [#1](https://github.com/bryanweecw/cautious-pancake/pull/1) in [bryanweecw/cautious-pancake](https://github.com/bryanweecw/cautious-pancake)
-4. ❗️ Closed issue [#34](https://github.com/jackyzha0/quartz/issues/34) in [jackyzha0/quartz](https://github.com/jackyzha0/quartz)
-5. 🗣 Commented on [#34](https://github.com/jackyzha0/quartz/issues/34) in [jackyzha0/quartz](https://github.com/jackyzha0/quartz)
+1. 💪 Opened PR [#2](https://github.com/ivanleomk/recoverly-next/pull/2) in [ivanleomk/recoverly-next](https://github.com/ivanleomk/recoverly-next)
+2. 🎉 Merged PR [#1](https://github.com/ivanleomk/react-2025-2/pull/1) in [ivanleomk/react-2025-2](https://github.com/ivanleomk/react-2025-2)
+3. 💪 Opened PR [#1](https://github.com/ivanleomk/react-2025-2/pull/1) in [ivanleomk/react-2025-2](https://github.com/ivanleomk/react-2025-2)
+4. 💪 Opened PR [#1](https://github.com/bryanweecw/cautious-pancake/pull/1) in [bryanweecw/cautious-pancake](https://github.com/bryanweecw/cautious-pancake)
+5. ❗️ Closed issue [#34](https://github.com/jackyzha0/quartz/issues/34) in [jackyzha0/quartz](https://github.com/jackyzha0/quartz)
 <!--END_SECTION:activity-->
