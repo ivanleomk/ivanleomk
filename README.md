@@ -37,9 +37,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2](https://github.com/ivanleomk/react-2025-2/pull/2) in [ivanleomk/react-2025-2](https://github.com/ivanleomk/react-2025-2)
-2. 💪 Opened PR [#2](https://github.com/ivanleomk/recoverly-next/pull/2) in [ivanleomk/recoverly-next](https://github.com/ivanleomk/recoverly-next)
-3. 🎉 Merged PR [#1](https://github.com/ivanleomk/react-2025-2/pull/1) in [ivanleomk/react-2025-2](https://github.com/ivanleomk/react-2025-2)
-4. 💪 Opened PR [#1](https://github.com/ivanleomk/react-2025-2/pull/1) in [ivanleomk/react-2025-2](https://github.com/ivanleomk/react-2025-2)
-5. 💪 Opened PR [#1](https://github.com/bryanweecw/cautious-pancake/pull/1) in [bryanweecw/cautious-pancake](https://github.com/bryanweecw/cautious-pancake)
+1. 🎉 Merged PR [#2](https://github.com/ivanleomk/react-2025-2/pull/2) in [ivanleomk/react-2025-2](https://github.com/ivanleomk/react-2025-2)
+2. 💪 Opened PR [#2](https://github.com/ivanleomk/react-2025-2/pull/2) in [ivanleomk/react-2025-2](https://github.com/ivanleomk/react-2025-2)
+3. 💪 Opened PR [#2](https://github.com/ivanleomk/recoverly-next/pull/2) in [ivanleomk/recoverly-next](https://github.com/ivanleomk/recoverly-next)
+4. 🎉 Merged PR [#1](https://github.com/ivanleomk/react-2025-2/pull/1) in [ivanleomk/react-2025-2](https://github.com/ivanleomk/react-2025-2)
+5. 💪 Opened PR [#1](https://github.com/ivanleomk/react-2025-2/pull/1) in [ivanleomk/react-2025-2](https://github.com/ivanleomk/react-2025-2)
 <!--END_SECTION:activity-->
