@@ -37,9 +37,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#7](https://github.com/ivanleomk/recoverly-next/pull/7) in [ivanleomk/recoverly-next](https://github.com/ivanleomk/recoverly-next)
-2. 💪 Opened PR [#7](https://github.com/ivanleomk/recoverly-next/pull/7) in [ivanleomk/recoverly-next](https://github.com/ivanleomk/recoverly-next)
-3. 🎉 Merged PR [#6](https://github.com/ivanleomk/recoverly-next/pull/6) in [ivanleomk/recoverly-next](https://github.com/ivanleomk/recoverly-next)
-4. 💪 Opened PR [#6](https://github.com/ivanleomk/recoverly-next/pull/6) in [ivanleomk/recoverly-next](https://github.com/ivanleomk/recoverly-next)
-5. 🎉 Merged PR [#5](https://github.com/ivanleomk/recoverly-next/pull/5) in [ivanleomk/recoverly-next](https://github.com/ivanleomk/recoverly-next)
+1. 🎉 Merged PR [#8](https://github.com/ivanleomk/recoverly-next/pull/8) in [ivanleomk/recoverly-next](https://github.com/ivanleomk/recoverly-next)
+2. 💪 Opened PR [#8](https://github.com/ivanleomk/recoverly-next/pull/8) in [ivanleomk/recoverly-next](https://github.com/ivanleomk/recoverly-next)
+3. 🎉 Merged PR [#7](https://github.com/ivanleomk/recoverly-next/pull/7) in [ivanleomk/recoverly-next](https://github.com/ivanleomk/recoverly-next)
+4. 💪 Opened PR [#7](https://github.com/ivanleomk/recoverly-next/pull/7) in [ivanleomk/recoverly-next](https://github.com/ivanleomk/recoverly-next)
+5. 🎉 Merged PR [#6](https://github.com/ivanleomk/recoverly-next/pull/6) in [ivanleomk/recoverly-next](https://github.com/ivanleomk/recoverly-next)
 <!--END_SECTION:activity-->
