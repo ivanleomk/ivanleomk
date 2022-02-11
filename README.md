@@ -37,9 +37,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#19](https://github.com/markyuen/recoverly-next/pull/19) in [markyuen/recoverly-next](https://github.com/markyuen/recoverly-next)
-2. 💪 Opened PR [#19](https://github.com/markyuen/recoverly-next/pull/19) in [markyuen/recoverly-next](https://github.com/markyuen/recoverly-next)
-3. 🎉 Merged PR [#18](https://github.com/markyuen/recoverly-next/pull/18) in [markyuen/recoverly-next](https://github.com/markyuen/recoverly-next)
-4. 🎉 Merged PR [#17](https://github.com/markyuen/recoverly-next/pull/17) in [markyuen/recoverly-next](https://github.com/markyuen/recoverly-next)
-5. 💪 Opened PR [#18](https://github.com/markyuen/recoverly-next/pull/18) in [markyuen/recoverly-next](https://github.com/markyuen/recoverly-next)
+1. 💪 Opened PR [#21](https://github.com/markyuen/recoverly-next/pull/21) in [markyuen/recoverly-next](https://github.com/markyuen/recoverly-next)
+2. 🎉 Merged PR [#20](https://github.com/markyuen/recoverly-next/pull/20) in [markyuen/recoverly-next](https://github.com/markyuen/recoverly-next)
+3. 💪 Opened PR [#20](https://github.com/markyuen/recoverly-next/pull/20) in [markyuen/recoverly-next](https://github.com/markyuen/recoverly-next)
+4. 🎉 Merged PR [#19](https://github.com/markyuen/recoverly-next/pull/19) in [markyuen/recoverly-next](https://github.com/markyuen/recoverly-next)
+5. 💪 Opened PR [#19](https://github.com/markyuen/recoverly-next/pull/19) in [markyuen/recoverly-next](https://github.com/markyuen/recoverly-next)
 <!--END_SECTION:activity-->
