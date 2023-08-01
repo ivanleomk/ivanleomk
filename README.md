@@ -5,3 +5,8 @@
 
 > I work as a software engineer and I'm exploring an interest in machine learning. Here are some recent articles that I've worked on that involve LLMs
 
+- [Deploying a Langchain Function on AWS Lambda with the AWS CDK](https://www.ivanleo.com/blog/ci_cd_with_langchain_aws_lambda_using_docker_image)
+- [Classifying Disaster Tweets](https://www.ivanleo.com/blog/classifying_disaster_tweets_on_kaggle)
+- [Using LLMs for classifying restaurants using review data and other metadata](https://www.ivanleo.com/blog/crawling_your_saved_places_with_google_maps)
+
+ 
