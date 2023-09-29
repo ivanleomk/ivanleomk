@@ -9,3 +9,5 @@ I work as a software engineer and I'm exploring an interest in machine learning.
 - [Classifying Disaster Tweets](https://www.ivanleo.com/blog/classifying_disaster_tweets_on_kaggle)
 - [Using LLMs for classifying restaurants using review data and other metadata](https://www.ivanleo.com/blog/crawling_your_saved_places_with_google_maps)
 - [Implementing Magic Link Authentication with Resend and Kysely](https://www.ivanleo.com/blog/implementing_magic_links_with_resend_kysely_and_next_auth)
+- [Re-Implementing Gandalf with Open AI](https://www.ivanleo.com/blog/reinventing_gandalf)
+- [A simplified guide to RWKV](https://www.ivanleo.com/blog/a_guide_to_rwkv)
