@@ -11,3 +11,4 @@ I work as a software engineer and I'm exploring an interest in machine learning.
 - [Implementing Magic Link Authentication with Resend and Kysely](https://www.ivanleo.com/blog/implementing_magic_links_with_resend_kysely_and_next_auth)
 - [Re-Implementing Gandalf with Open AI](https://www.ivanleo.com/blog/reinventing_gandalf)
 - [A simplified guide to RWKV](https://www.ivanleo.com/blog/a_guide_to_rwkv)
+- [Generating @shadcn/ui components using gpt-4, pydantic and Instructor](https://www.ivanleo.com/blog/gpt_react)
